@@ -10,7 +10,6 @@ from termcolor import colored
 
 class profiles():
 
-
     def prompt():
         while True:
             print(colored('\nSelect the option you wish to do', attrs=['bold']))
@@ -268,8 +267,6 @@ class profiles():
                     pass
                 else:
                     break
-
-
 
 
 
